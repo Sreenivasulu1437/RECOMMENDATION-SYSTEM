@@ -183,3 +183,5 @@ Metrics: Evaluation results for all three approaches
 
 🎯 CONCLUSION
 The Matrix Factorization (SVD) approach provides the most accurate recommendations with RMSE of 0.78, making it suitable for production deployment. The system successfully demonstrates three collaborative filtering techniques with comprehensive evaluation metrics and visualization.
+
+<img width="1536" height="884" alt="Image" src="https://github.com/user-attachments/assets/96cc60bf-400e-42da-9754-a5371d488293" />
